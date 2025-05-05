@@ -1,0 +1,9 @@
+streamlit
+pandas
+scikit-learn
+plotly
+nltk
+streamlit-lottie
+requests
+streamlit-option-menu
+pillow
